@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hw17-react-hooks/static/css/main.300190b9.css",
+    "main.js": "/hw17-react-hooks/static/js/main.9db55daf.js",
+    "static/js/787.0b1e32f2.chunk.js": "/hw17-react-hooks/static/js/787.0b1e32f2.chunk.js",
+    "index.html": "/hw17-react-hooks/index.html",
+    "static/media/woman.svg": "/hw17-react-hooks/static/media/woman.8d4a692542d455b024bd.svg",
+    "static/media/man.svg": "/hw17-react-hooks/static/media/man.843b0c3f40818ecf3a4c.svg",
+    "main.300190b9.css.map": "/hw17-react-hooks/static/css/main.300190b9.css.map",
+    "main.9db55daf.js.map": "/hw17-react-hooks/static/js/main.9db55daf.js.map",
+    "787.0b1e32f2.chunk.js.map": "/hw17-react-hooks/static/js/787.0b1e32f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.300190b9.css",
+    "static/js/main.9db55daf.js"
+  ]
+}

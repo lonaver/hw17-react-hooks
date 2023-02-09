@@ -104,7 +104,7 @@ function App() {
       <div className="check-area">
         <fieldset className="checkbox">
           <legend>Check gender</legend>
-          <label>
+          <label className="checkbox_input">
             <input
               type="checkbox"
               name="gender"
@@ -114,7 +114,7 @@ function App() {
             />
             male
           </label>
-          <label>
+          <label className="checkbox_input">
             <input
               type="checkbox"
               name="gender"
@@ -124,7 +124,7 @@ function App() {
             />
             female
           </label>
-          <label>
+          <label className="checkbox_input">
             <input
               type="checkbox"
               name="gender"
